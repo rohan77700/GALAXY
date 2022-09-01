@@ -1,3 +1,3 @@
 # GALAXY
 
-A Python Game using kivy
+A Python Game using kivy.
